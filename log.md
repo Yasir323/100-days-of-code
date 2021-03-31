@@ -13,20 +13,29 @@
 ### Day 1: March 28, 2021
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Completed Statistics Module
+**Today's Progress**: Completed Statistics Module and Shutil Modeule.
 
 **Thoughts**: I need to study some concepts in Statistics. Let's start writing articles too.
 
 <!-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-<!-- ### Day 1: June 27, Monday
+### Day 2: March 29, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Rich Module and I have started with collections Module.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I need to work on Data Structures and Algorithms.
 
-**Link(s) to work**
+<!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
  -->
+
+### Day 3: March 30, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Lecture 4 of CS-229. Fake news detector.
+
+**Thoughts**: Text classication models and bagging might perform better. I will try Voting Classifier.
+
+**Link(s) to work**: https://github.com/Yasir323/fake-news-detection
