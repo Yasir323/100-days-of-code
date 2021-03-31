@@ -23,3 +23,9 @@ od = OrderedDict([('b', 1), ('a', 2)])
 assert d == od, "They are not equal"
 assert list(d.items()) == list(od.items()), "The items are not same"
 assert repr(dict(od)) == repr(d), "The raw representation is not same"
+
+
+# The different methods
+d_set = set(dir(d))
+od_set = set(dir(od))
+print(od_set.difference(d_set))
