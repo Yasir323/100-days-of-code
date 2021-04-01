@@ -48,3 +48,12 @@
 **Thoughts**: Now i want to make programs for all the algorithms using Python.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 5: April 1, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Neural Networks from Scratch.
+
+**Thoughts**: Now i want to make programs for all Machine Learning Algorithms from Scratch.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
