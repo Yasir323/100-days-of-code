@@ -39,3 +39,12 @@
 **Thoughts**: Text classication models and bagging might perform better. I will try Voting Classifier.
 
 **Link(s) to work**: https://github.com/Yasir323/fake-news-detection
+
+### Day 4: March 31, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Data Structures and Algorithms final assignment is done.
+
+**Thoughts**: Now i want to make programs for all the algorithms using Python.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
