@@ -57,3 +57,12 @@
 **Thoughts**: Now i want to make programs for all Machine Learning Algorithms from Scratch.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 6: April 2, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Searching algorithms.
+
+**Thoughts**: Interpolation search and Binary Saerch are the fastest ones.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
