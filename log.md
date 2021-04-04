@@ -75,3 +75,12 @@
 **Thoughts**: Need time for digesting the divide and conquer based algorithms.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 8: April 4, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Collections Module Done.
+
+**Thoughts**: Deque is quite useful and fast. But for all most kind of operations list is the fastest even though it takes more space.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
