@@ -66,3 +66,12 @@
 **Thoughts**: Interpolation search and Binary Saerch are the fastest ones.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 7: April 3, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Insertion sort, bubble sort and selection sort.
+
+**Thoughts**: Need time for digesting the divide and conquer based algorithms.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
