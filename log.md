@@ -84,3 +84,12 @@
 **Thoughts**: Deque is quite useful and fast. But for all most kind of operations list is the fastest even though it takes more space.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 9: April 5, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Merge Sort.
+
+**Thoughts**: Merge sort as expected is really fast as compared to others.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
