@@ -93,3 +93,21 @@
 **Thoughts**: Merge sort as expected is really fast as compared to others.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 10: April 6, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: OpenCV introduction.
+
+**Thoughts**: Need to finish it by tomorrow.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 11: April 5, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: OpenCV.
+
+**Thoughts**: Let's look for some really cool projects using OpenCV.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->

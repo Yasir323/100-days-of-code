@@ -1,7 +1,10 @@
 import os
+
+
 def main():
 	i = 0
-	for filename in od.listdir(path):
+	path = os.cwd()
+	for filename in os.listdir(path):
 		my_dest = "image" + str(i) + ".jpg"
 		my_source = path + filename
 		my_dest = path + my_dest
