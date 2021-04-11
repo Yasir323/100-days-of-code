@@ -99,15 +99,49 @@
 
 **Today's Progress**: OpenCV introduction.
 
-**Thoughts**: Need to finish it by tomorrow.
+**Thoughts**: Need to finish it asap.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
 
-### Day 11: April 5, 2021
+### Day 11: April 7, 2021
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: OpenCV.
+**Today's Progress**: OpenCV - Edge Detection
 
 **Thoughts**: Let's look for some really cool projects using OpenCV.
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 11: April 8, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: OpenCV - Face Recognition
+
+**Thoughts**: Let's look for some really cool projects using OpenCV.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 11: April 9, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: OpenCV - Color Detection, HSV
+
+**Thoughts**: Need to see how HSV works.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 11: April 10, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: OpenCV - Project on Painting.
+
+**Thoughts**: Let's look for some more projects.
+
+<!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
+
+### Day 11: April 11, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Machine Learinng From Scratch - Linear Regression.
+
+**Thoughts**: Need to dive a little bit deeper into statistics.
