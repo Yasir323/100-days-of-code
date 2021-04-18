@@ -112,7 +112,7 @@
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
 
-### Day 11: April 8, 2021
+### Day 12: April 8, 2021
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: OpenCV - Face Recognition
@@ -121,7 +121,7 @@
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
 
-### Day 11: April 9, 2021
+### Day 13: April 9, 2021
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: OpenCV - Color Detection, HSV
@@ -130,7 +130,7 @@
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
 
-### Day 11: April 10, 2021
+### Day 14: April 10, 2021
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: OpenCV - Project on Painting.
@@ -139,9 +139,39 @@
 
 <!-- **Link(s) to work**: https://github.com/Yasir323/fake-news-detection -->
 
-### Day 11: April 11, 2021
+### Day 15: April 11, 2021
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Machine Learinng From Scratch - Linear Regression.
 
 **Thoughts**: Need to dive a little bit deeper into statistics.
+
+### Day 16: April 12, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Self Orgamizing Maps.
+
+**Thoughts**: Need more Projects on this.
+
+### Day 17: April 13, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Quicksort.
+
+**Thoughts**: We can do better than this, maybe some modification in Quicksort will do
+
+### Day 18: April 14, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Open CV Project, number plate detection.
+
+**Thoughts**: This was a really simple project.
+
+### Sick for 3 days from April 15 to April 17
+
+### Day 19: April 18, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Heapsort.
+
+**Thoughts**: Some more sorting algorithms left.
