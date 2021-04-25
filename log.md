@@ -3,7 +3,7 @@
 ### Day 0: March 27, 2021
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: 
+**Today's Progress**:
 1. Bulk file renaming project.
 2. Statistics Module
 
@@ -175,3 +175,52 @@
 **Today's Progress**: Heapsort.
 
 **Thoughts**: Some more sorting algorithms left.
+
+### Day 20: April 19, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Counting sort.
+
+**Thoughts**: Some more sorting algorithms left.
+
+### Day 21: April 20, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Radix Sort.
+
+**Thoughts**: Some more sorting algorithms left.
+
+### Day 22: April 21, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Comparing all the sorting algorithms.
+
+**Thoughts**: Quicksort on average is the fastest while insertion is consistently slowest.
+
+### Day 23: April 22, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Python Lists and Dictionary.
+
+**Thoughts**: Dictionary is really fast compared to a list. Most operations are O(1)
+
+### Day 24: April 23, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Stack
+
+**Thoughts**: Started Linear Data Structures today. Stack is perhaps very easy to implement using a List, but there are more implementations of Stack available in Python.
+
+### Day 25: April 24, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Anagrams.
+
+**Thoughts**: Stack applications.
+
+### Day 26: April 25, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Decimal to base converter.
+
+**Thoughts**: Again using Stack the converter is really easy to design.
