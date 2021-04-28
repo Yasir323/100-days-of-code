@@ -224,3 +224,24 @@
 **Today's Progress**: Decimal to base converter.
 
 **Thoughts**: Again using Stack the converter is really easy to design.
+
+### Day 27: April 26, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Recursion
+
+**Thoughts**: This will take awful lot of time.
+
+### Day 28: April 27, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Tower of Hanoi and Maze
+
+**Thoughts**: Really hard to grasp at first. Need to work on recursion a lil bit more.
+
+### Day 29: April 28, 2021
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Dynamic Programming - Memoization. Fibonacci using Memoization.
+
+**Thoughts**: Dynamic Programming is really a handy tool.
